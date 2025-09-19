@@ -37,9 +37,9 @@ JVM 구조와 전반적인 동작 이해를 목표로 했으며 깊게 고민한
 - 추상 클래스를 사용하지 않고, 그냥 상속을 통해서 구현해도 상관 없지 않나?
 
 
-[GC 구조 정리](https://tidal-tub-cac.notion.site/GC-26ae569146a680f89543c3b2af57e8f5?source=copy_link)
-[클래스 이해](https://tidal-tub-cac.notion.site/26be569146a68004a89ac19b79cd79ca?source=copy_link)
-[상속 이해](https://tidal-tub-cac.notion.site/26be569146a680929d86ef8374048496?source=copy_link)
+[GC 구조 정리](https://tidal-tub-cac.notion.site/GC-26ae569146a680f89543c3b2af57e8f5?source=copy_link)  
+[클래스 이해](https://tidal-tub-cac.notion.site/26be569146a68004a89ac19b79cd79ca?source=copy_link)  
+[상속 이해](https://tidal-tub-cac.notion.site/26be569146a680929d86ef8374048496?source=copy_link)  
 [추상 클래스 이해](https://tidal-tub-cac.notion.site/abstract-26be569146a6800990a3dd5799cd687f?source=copy_link)
 
 ---
